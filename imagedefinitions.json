@@ -1,14 +1,6 @@
 [
   {
-    "name": "simple-app",
-    "imageUri": "httpd:2.4"
-  },
-  {
-    "name": "simple-app-1",
-    "imageUri": "mysql"
-  },
-  {
-    "name": "simple-app-2",
-    "imageUri": "java1.8"
+    "name": "anil",
+    "imageUri": "11111EXAMPLE.dkr.ecr.us-west-2.amazonaws.com/anilkumare/ecs:latest"
   }
 ]
