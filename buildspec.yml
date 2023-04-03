@@ -9,7 +9,6 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Compiling the dist folder
-      - node /examples/hello-world/index.js
   post_build:
     commands:
       - echo Build completed on `date`
