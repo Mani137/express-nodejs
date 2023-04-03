@@ -1,6 +1,6 @@
 [
   {
     "name": "anil",
-    "imageUri": "anilkumare/ecs:latest"
+    "ImageURI": "093295838217.dkr.ecr.eu-west-2.amazonaws.com/anilkumare/ecs:latest"
   }
 ]
