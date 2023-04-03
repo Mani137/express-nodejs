@@ -17,6 +17,3 @@ phases:
 artifacts:
   files:
     - index.js
-    - request-map.js
-    - credentials.json
-    - node_modules/**/*
