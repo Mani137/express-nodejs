@@ -1,2 +1,2 @@
-printf '[{"name":"anil","imageUri":"anilkumare/ecs"}]' >
+printf '[{"name":"ail","imageUri":"anilkumare/ecs"}]' >
 imagedefinitions.json
