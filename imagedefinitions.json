@@ -1,2 +1,7 @@
-printf '[{"name":"ail","imageUri":"anilkumare/ecs"}]' >
-imagedefinitions.json
+
+[
+  {
+    "name": "ail",
+    "imageUri": "788755211053.dkr.ecr.us-east-1.amazonaws.com/anilkumare/ecs:latest"
+  }
+]
